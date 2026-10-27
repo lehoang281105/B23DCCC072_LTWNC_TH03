@@ -1,0 +1,111 @@
+[
+  {
+    "id": "1",
+    "title": "Báo cáo Thực hành Buổi 7 - Next.js Rendering & App Router",
+    "description": "Dựng dự án Next.js demo 3 chiến lược SSG, SSR, ISR. Tối ưu ảnh với next/image, sitemap và đo điểm Lighthouse.",
+    "subjectSlug": "lap-trinh-web-nang-cao",
+    "dueDate": "2026-10-30T23:59:00Z",
+    "priority": "high",
+    "createdAt": "2026-10-20T08:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Báo cáo Thực hành Buổi 8 - NextAuth, Middleware & SEO",
+    "description": "Tích hợp NextAuth v5, bảo vệ route bằng Middleware và phân quyền RBAC 2 vai trò admin/user, cấu hình dynamic openGraph.",
+    "subjectSlug": "lap-trinh-web-nang-cao",
+    "dueDate": "2026-11-06T23:59:00Z",
+    "priority": "high",
+    "createdAt": "2026-10-24T09:00:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Nộp Đề cương Đồ án Lập trình Web Nhóm",
+    "description": "Nộp tài liệu đặc tả yêu cầu, thiết kế kiến trúc hệ thống Next.js + NestJS và phân chia công việc các thành viên.",
+    "subjectSlug": "lap-trinh-web-nang-cao",
+    "dueDate": "2026-11-15T23:59:00Z",
+    "priority": "medium",
+    "createdAt": "2026-10-25T10:00:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Bài tập Mô phỏng Pipeline CPU trên phần mềm RARS",
+    "description": "Viết chương trình hợp ngữ MIPS tính chuỗi Fibonacci, giải thích hiện tượng Data Hazard và Branch Hazard trong 5-stage pipeline.",
+    "subjectSlug": "kien-truc-may-tinh",
+    "dueDate": "2026-10-25T23:59:00Z",
+    "priority": "high",
+    "createdAt": "2026-10-15T08:00:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Báo cáo Bài tập Lớn: Thiết kế bộ ALU 16-bit trên Logisim",
+    "description": "Thiết kế mạch số học và logic ALU hỗ trợ các phép tính ADD, SUB, AND, OR, SLT. Kiểm thử với tập test vector cho trước.",
+    "subjectSlug": "kien-truc-may-tinh",
+    "dueDate": "2026-11-10T23:59:00Z",
+    "priority": "medium",
+    "createdAt": "2026-10-22T14:00:00Z"
+  },
+  {
+    "id": "6",
+    "title": "Ôn tập và Kiểm tra Giữa kỳ Kiến trúc máy tính",
+    "description": "Kiểm tra trắc nghiệm kết hợp tự luận tập lệnh RISC và bộ nhớ đệm Cache Direct-Mapped, Set-Associative.",
+    "subjectSlug": "kien-truc-may-tinh",
+    "dueDate": "2026-11-20T17:00:00Z",
+    "priority": "high",
+    "createdAt": "2026-10-26T11:00:00Z"
+  },
+  {
+    "id": "7",
+    "title": "Bài thực hành Wireshark: Bắt và Phân tích Gói tin TCP 3-way Handshake",
+    "description": "Chụp lưu lượng mạng khi truy cập HTTP/HTTPS, phân tích quá trình bắt tay 3 bước SYN, SYN-ACK, ACK và cơ chế đóng kết nối FIN.",
+    "subjectSlug": "mang-may-tinh",
+    "dueDate": "2026-11-02T23:59:00Z",
+    "priority": "medium",
+    "createdAt": "2026-10-21T07:30:00Z"
+  },
+  {
+    "id": "8",
+    "title": "Cấu hình Mạng LAN ảo (VLAN) và Định tuyến Router trên Cisco Packet Tracer",
+    "description": "Thiết lập mô hình mạng cho 3 phòng ban, cấu hình Trunking 802.1Q và Router-on-a-stick để giao tiếp giữa các VLAN.",
+    "subjectSlug": "mang-may-tinh",
+    "dueDate": "2026-11-18T23:59:00Z",
+    "priority": "low",
+    "createdAt": "2026-10-23T15:00:00Z"
+  },
+  {
+    "id": "9",
+    "title": "Tiểu luận An ninh Mạng: Tấn công SYN Flood và Giải pháp SYN Cookies",
+    "description": "Trình bày nguyên lý tấn công từ chối dịch vụ DoS qua lỗ hổng TCP SYN, triển khai kịch bản phòng thủ bằng cấu hình tường lửa iptables.",
+    "subjectSlug": "mang-may-tinh",
+    "dueDate": "2026-11-28T23:59:00Z",
+    "priority": "low",
+    "createdAt": "2026-10-25T16:00:00Z"
+  },
+  {
+    "id": "10",
+    "title": "Bài tập Thiết kế Lược đồ Thực thể Liên kết (ERD) Quản lý Thư viện",
+    "description": "Xây dựng sơ đồ ERD chuẩn, xác định khóa chính, khóa ngoại, các mối quan hệ 1-N, N-N và chuẩn hóa về dạng 3NF/BCNF.",
+    "subjectSlug": "co-so-du-lieu",
+    "dueDate": "2026-10-29T23:59:00Z",
+    "priority": "high",
+    "createdAt": "2026-10-18T10:00:00Z"
+  },
+  {
+    "id": "11",
+    "title": "Viết Truy vấn SQL Nâng cao với Window Functions và Stored Procedure",
+    "description": "Thực thi các câu lệnh ROW_NUMBER(), RANK(), DENSE_RANK() phân tích doanh số và viết trigger kiểm tra ràng buộc toàn vẹn.",
+    "subjectSlug": "co-so-du-lieu",
+    "dueDate": "2026-11-12T23:59:00Z",
+    "priority": "medium",
+    "createdAt": "2026-10-24T13:30:00Z"
+  },
+  {
+    "id": "12",
+    "title": "Đánh chỉ mục Index và Tối ưu Hóa Câu lệnh Truy vấn (EXPLAIN ANALYZE)",
+    "description": "Sử dụng B-Tree Index trên PostgreSQL/MySQL, đo thời gian thực thi trước và sau khi đánh index cho bảng hơn 100.000 bản ghi.",
+    "subjectSlug": "co-so-du-lieu",
+    "dueDate": "2026-11-25T23:59:00Z",
+    "priority": "low",
+    "createdAt": "2026-10-26T09:00:00Z"
+  }
+]
+

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "user-admin",
+    "email": "admin@ptit.edu.vn",
+    "password": "admin123",
+    "name": "Admin (Lớp trưởng)",
+    "role": "admin"
+  },
+  {
+    "id": "user-sv",
+    "email": "sv@ptit.edu.vn",
+    "password": "sv123456",
+    "name": "Thành viên lớp",
+    "role": "user"
+  }
+]

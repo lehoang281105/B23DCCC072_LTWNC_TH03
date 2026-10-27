@@ -1,0 +1,39 @@
+[
+  {
+    "id": "sub-1",
+    "slug": "lap-trinh-web-nang-cao",
+    "code": "INT1434",
+    "name": "Lập trình Web nâng cao",
+    "credits": 3,
+    "instructor": "ThS. Ngô Văn Nhận",
+    "description": "Nghiên cứu kiến trúc Full-stack hiện đại với React, Next.js (App Router, SSR, SSG, ISR), xác thực bảo mật và tối ưu Core Web Vitals."
+  },
+  {
+    "id": "sub-2",
+    "slug": "kien-truc-may-tinh",
+    "code": "INT1306",
+    "name": "Kiến trúc máy tính",
+    "credits": 3,
+    "instructor": "TS. Phạm Văn An",
+    "description": "Nắm vững nguyên lý hoạt động của CPU, tập lệnh RISC-V/MIPS, phân cấp bộ nhớ đệm Cache và tối ưu đường ống Pipeline."
+  },
+  {
+    "id": "sub-3",
+    "slug": "mang-may-tinh",
+    "code": "INT1339",
+    "name": "Mạng máy tính",
+    "credits": 3,
+    "instructor": "ThS. Lê Hoàng Bình",
+    "description": "Các tầng mô hình TCP/IP, phân tích gói tin Wireshark, định tuyến mạng OSPF, BGP và cơ chế truyền tin cậy TCP."
+  },
+  {
+    "id": "sub-4",
+    "slug": "co-so-du-lieu",
+    "code": "INT1202",
+    "name": "Cơ sở dữ liệu",
+    "credits": 3,
+    "instructor": "TS. Hoàng Minh Tâm",
+    "description": "Mô hình quan hệ, đại số quan hệ, thiết kế chuẩn hóa lược đồ CSDL BCNF, viết truy vấn SQL nâng cao và lập chỉ mục tối ưu."
+  }
+]
+
