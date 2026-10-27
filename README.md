@@ -28,7 +28,6 @@ Dự án bài thực hành học phần **Lập trình Web Nâng cao (LTWNC)**.
 3. **Chạy môi trường phát triển (Development):**
    ```bash
    npm run dev
-   # Ứng dụng chạy tại: http://localhost:3000
    ```
 
 4. **Biên dịch và chạy bản Production (Khuyên dùng để kiểm tra SEO & Lighthouse):**
