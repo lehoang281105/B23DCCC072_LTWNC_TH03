@@ -2,7 +2,7 @@
 
 Dự án bài thực hành học phần **Lập trình Web Nâng cao (LTWNC)**.  
 Ứng dụng xây dựng trên nền tảng **Next.js 16 (App Router)**, **TypeScript**, **Tailwind CSS**, và **Auth.js (NextAuth v5)**.
-
+Link vercel: https://b23-dccc-072-ltwnc-th-03.vercel.app/
 ---
 
 ## 1. Hướng Dẫn Cài Đặt và Khởi Chạy
