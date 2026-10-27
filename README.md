@@ -52,35 +52,8 @@ Hệ thống có sẵn nút điền nhanh tài khoản tại trang `/login`:
 ## 3. Bảng Kết Quả `npm run build` và Lý Do Chọn Chiến Lược Render
 
 ### Kết quả Terminal khi chạy `npm run build`
+<img width="1090" height="1210" alt="image" src="https://github.com/user-attachments/assets/8478e78f-e5d8-4548-8210-ce42b26e851a" />
 
-```text
-Route (app)                                 Revalidate  Expire
-┌ ○ /
-├ ○ /_not-found
-├ ○ /403
-├ ƒ /admin
-├ ƒ /api/auth/[...nextauth]
-├ ƒ /dashboard
-├ ○ /deadlines                                      1m      1y
-├   /deadlines/[id]
-│ ├ ● /deadlines/4
-│ ├ ● /deadlines/10
-│ ├ ● /deadlines/1
-│ └ ● [+9 more paths]
-├ ƒ /deadlines/[id]/opengraph-image-104vc5
-├ ƒ /login
-├ ○ /robots.txt
-├ ○ /sitemap.xml
-└   /subjects/[slug]
-  ├ ● /subjects/lap-trinh-web-nang-cao
-  ├ ● /subjects/kien-truc-may-tinh
-  ├ ● /subjects/mang-may-tinh
-  └ ● /subjects/co-so-du-lieu
-
-○  (Static)   prerendered as static content
-●  (SSG)      prerendered as static HTML (uses generateStaticParams)
-ƒ  (Dynamic)  server-rendered on demand
-```
 
 ### Bảng phân tích lý do chọn chiến lược cho từng route
 
